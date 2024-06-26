@@ -18,3 +18,10 @@ Return the token to the coordinator after completing the critical section.
 ## Notes
 Ensure ports 7000 and 7001 are available and not in use by other applications.
 Handle exceptions gracefully and log activities for debugging purposes.
+
+## License
+This project is licensed under the [MIT License](./LICENSE.txt).
+
+## Contact
+For any questions, feedback, or collaborations, feel free to reach out:
+- Email: uzairahmedrak@gmail.com
